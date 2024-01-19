@@ -13,5 +13,6 @@
         <setting id="org.eclipse.jdt.core.formatter.brace_position_for_array_initializer" value="next_line"/>
         <setting id="org.eclipse.jdt.core.formatter.brace_position_for_enum_constant" value="next_line"/>
         <setting id="org.eclipse.jdt.core.formatter.brace_position_for_type_declaration" value="next_line"/>
+        <setting id="org.eclipse.jdt.core.formatter.join_wrapped_lines" value="false"/>
     </profile>
 </profiles>
