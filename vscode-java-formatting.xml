@@ -24,11 +24,6 @@
         <setting id="org.eclipse.jdt.core.formatter.brace_position_for_type_declaration"
             value="next_line" />
         <setting id="org.eclipse.jdt.core.formatter.join_wrapped_lines" value="false" />
-        <setting id="org.eclipse.jdt.core.formatter.insert_new_line_after_annotation_on_parameter"
-            value="do not insert" />
-        <setting
-            id="org.eclipse.jdt.core.formatter.insert_new_line_after_annotation_on_enum_constant"
-            value="insert" />
         <setting id="org.eclipse.jdt.core.formatter.put_empty_statement_on_new_line" value="false" />
         <setting id="org.eclipse.jdt.core.formatter.insert_new_line_in_empty_type_declaration"
             value="insert" />
